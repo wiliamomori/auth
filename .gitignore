@@ -1,0 +1,12 @@
+node_modules
+.env
+FEATURES.md
+COMMANDS.md
+TMP.md
+yarn.lock
+clean.bat
+uploads/*
+!uploads/.gitkeep
+
+
+
